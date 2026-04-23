@@ -38,7 +38,7 @@
 
 ```bash
 # Клонировать репозиторий
-git clone git@github.com:altuhov1/game_2d.git
+git clone git@github.com:altuhov1/search-for-gold.git
 
 # Перейти в папку
 cd game_2d
